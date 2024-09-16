@@ -1,6 +1,8 @@
 # betareg
 Fitting beta regression models Use betareg With (In) R Software
 
+https://www.youtube.com/watch?v=V-UccY9RDj8
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
